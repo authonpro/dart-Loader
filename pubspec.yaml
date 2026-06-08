@@ -1,0 +1,12 @@
+name: authon
+description: Official Authon SDK for Dart/Flutter — Software Licensing & Authentication
+version: 1.0.0
+homepage: https://authon.pro
+repository: https://github.com/authonpro/sdk-dart
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.1.0
+  crypto: ^3.0.3
